@@ -678,8 +678,8 @@ a {
 }
 
 .content img {
-    max-width: clamp(24rem, 36rem, 60rem);
-    max-height: 60vw;
+    max-width: clamp(12rem, 18rem, 30rem);
+    max-height: auto;
     object-fit: contain;
     margin-top: 100px;
 }
@@ -1206,5 +1206,6 @@ main {
     transform: translateY(0);
     pointer-events: auto;
 }
+
 
 
