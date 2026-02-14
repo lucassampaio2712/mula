@@ -1012,7 +1012,7 @@ a {
         flex-direction: column;
         padding: 12px;
         gap: 12px;
-        margin: 20px 12px;
+        margin: 70px 12px;
         max-width: calc(100% - 24px);
     }
 }
@@ -1393,4 +1393,5 @@ main {
         font-size: 14px;
     }
 }
+
 
